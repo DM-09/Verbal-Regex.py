@@ -1,5 +1,5 @@
 ## Verbal-Regex 설명서(가이드)
-Ver 0.1
+Ver 1.0.2
 
 - [기본 명령어](https://github.com/DM-09/Verbal-Regex.py/blob/main/Guide/%ED%95%9C%EA%B5%AD%EC%96%B4/%EA%B8%B0%EB%B3%B8%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 - [반복 명령어](https://github.com/DM-09/Verbal-Regex.py/blob/main/Guide/%ED%95%9C%EA%B5%AD%EC%96%B4/%EB%B0%98%EB%B3%B5%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)

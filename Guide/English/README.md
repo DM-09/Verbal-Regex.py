@@ -1,5 +1,5 @@
 ## Verbal-Regex Guide
-Ver 0.1
+Ver 1.0.2
 
 - [Basic command](https://github.com/DM-09/Verbal-Regex.py/blob/main/Guide/English/Basic.md)
 - [Repeat command](https://github.com/DM-09/Verbal-Regex.py/blob/main/Guide/English/Repeat.md)
