@@ -16,12 +16,12 @@ pip install VerbalRegex
 from VerbalRegex import VerRe
 
 v = VerRe()
-regex = v.start_of_line()
-    .find('http')
-    .maybe('s')
-    .find('://')
-    .anything()
-    .repeatPreviousOver1()
+regex = v.start_of_line()\
+    .find('http')\
+    .maybe('s')\
+    .find('://')\
+    .anything()\
+    .repeatPreviousOver1()\
     .end_of_line()
 
 print(regex)  # ^(http)(s)?(://).+$
